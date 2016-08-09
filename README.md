@@ -1,0 +1,2 @@
+# wget-load
+project | bash
