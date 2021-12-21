@@ -1,5 +1,5 @@
  
-#Test the efficiency of "http-api" using "wget"
+## Test the efficiency of "http-api" using "wget"
 
 A simple "bash" script that forks multiple "processes" that each accesses an "http-api", for example a web site, and prints out the total time taken for all requests to complete. Note that it uses a "urls-file" (text), which contains a list of "urls" that we want 
 each "wget" process to access.
